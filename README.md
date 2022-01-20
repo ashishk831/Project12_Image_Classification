@@ -21,4 +21,4 @@ Steps Involved:
 3. Data Preprocessing
 4. Building RNN
 
-Conclusion: Using RNN, After training the neural network on Dog and Cat data set, the model was able to predict the image of animal with 99% accuracy.
+Conclusion: Using CNN, After training the neural network on Dog and Cat data set, the model was able to predict the image of animal with 99% accuracy.
